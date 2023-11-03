@@ -295,7 +295,7 @@ int main(int argc, char **argv)
 
 ```
 ## OUTPUT
-![image](./i1.PNG)
+![image](./i1.png)
 
 ## RESULT
 Thus, the performance of two CUDA kernels, reduceUnrolling8 and reduceUnrolling16 has been compared successfully. 
